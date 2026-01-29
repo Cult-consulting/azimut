@@ -106,9 +106,19 @@
   *Note : Pas de rémunération dirigeant prévue (associés actifs rémunérés via TJM formation/consulting)*
 
 - [ ] **Objectif CA Year 1** :
-  - 60 000€ (BP actuel) réaliste ?
-  - Scénario pessimiste / optimiste ?
-  - Dépendance CAD 42 : quel % du CA ?
+  | Scénario | CA | Jours formation | Hypothèse |
+  |----------|-----|-----------------|-----------|
+  | Prudent | 60k€ | ~50j | Démarrage lent, peu de clients hors CAD 42 |
+  | Réaliste | 80-100k€ | ~70-80j | Rampe CAD 42 + premiers clients réseau |
+  | Ambitieux | 120k€+ | ~100j | CAD 42 + réseau actif + 1-2 gros contrats |
+
+  - Dépendance CAD 42 Y1 : quel % acceptable ? (50% ? 70% ?)
+  - Objectif diversification Y2 ?
+
+- [ ] **Financement lancement** :
+  - Capital social limité volontairement (pas de levier externe nécessaire)
+  - Compte courant d'associés : montant envisagé pour sécuriser la trésorerie ?
+  - Seuil de rentabilité mensuel avec charges courantes : ~3-4k€/mois de marge brute
 
 **Livrable** : P&L prévisionnel Y1 validé
 
