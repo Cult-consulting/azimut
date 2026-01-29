@@ -26,7 +26,10 @@
     window.$docsify = {
       name: 'Azimut',
       repo: '',
-      loadSidebar: true,
+      loadSidebar: '_sidebar.md',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       subMaxLevel: 2,
       search: {
         placeholder: 'Rechercher...',
