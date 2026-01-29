@@ -9,12 +9,19 @@
 
 ## Contexte
 
-CAD 42, co-fondé par Jean-Philippe et Raphaël, dispose d'un portefeuille clients BTP établi (Vinci, Bouygues, Spie Batignolles...) et d'une expertise reconnue en IA/transformation digitale.
+**CAD 42**, co-fondé par Jean-Philippe Panaget et Raphaël Garcia-Brotons, est un éditeur de logiciels métiers BTP avec un portefeuille clients établi (Vinci, Bouygues, Spie Batignolles...).
 
-La nouvelle structure (nom de code : Azimut) peut bénéficier de cette rampe de lancement pour :
-1. Accéder rapidement à des clients qualifiés
-2. Transformer des prestations existantes en formations
-3. Bénéficier de la crédibilité CAD 42
+**Point clé** : CAD 42 n'est pas structuré pour la formation (pas de certification Qualiopi, pas de vocation OF). Leur cœur de métier reste le développement et la maintenance de logiciels métiers.
+
+**Azimut** devient donc le partenaire naturel pour assurer les formations liées aux solutions CAD 42, permettant à CAD 42 de :
+- Proposer un accompagnement complet à ses clients (logiciel + formation)
+- Se concentrer sur son cœur de métier (logiciels)
+- Valoriser son portefeuille clients sans investir dans une structure OF
+
+Azimut bénéficie de cette rampe de lancement pour :
+1. Accéder rapidement à des clients qualifiés BTP
+2. Créer des formations autour des outils CAD 42
+3. Construire sa crédibilité via des références majors
 
 ---
 
@@ -26,13 +33,15 @@ La nouvelle structure (nom de code : Azimut) peut bénéficier de cette rampe de
 
 #### Template à compléter avec JP/Raph
 
-| Client | Secteur | Relation CAD42 | Contact clé | Potentiel Formation IA | Potentiel Consulting HSE | Priorité |
-|--------|---------|----------------|-------------|----------------------|-------------------------|----------|
-| Vinci | BTP Major | Client actif | ? | Élevé | Très élevé (Spiraliss) | 1 |
-| Bouygues | BTP Major | Client actif | ? | Élevé | Moyen | 2 |
-| Spie Batignolles | BTP | Client actif | ? | Élevé | Moyen | 2 |
-| Eiffage | BTP Major | Prospect ? | ? | Moyen | Moyen | 3 |
+| Client | Secteur | Relation CAD42 | Contact clé | Potentiel Formation IA | Pilote Azimut | Priorité |
+|--------|---------|----------------|-------------|----------------------|---------------|----------|
+| Vinci | BTP Major | Client actif | ? | Élevé | **Julien** (voir note) | 1 |
+| Bouygues | BTP Major | Client actif | ? | Élevé | Igor/Équipe | 2 |
+| Spie Batignolles | BTP | Client actif | ? | Élevé | Igor/Équipe | 2 |
+| Eiffage | BTP Major | Prospect ? | ? | Moyen | Igor/Équipe | 3 |
 | ... | | | | | | |
+
+> **⚠️ Note Vinci** : Igor travaille pour Spiraliss (50% de son activité), qui a un contrat-cadre avec Vinci. Pour éviter tout conflit d'intérêt ou inconfort, Julien pourrait piloter l'approche commerciale Vinci côté Azimut, Igor intervenant uniquement sur la délivrance pédagogique si nécessaire.
 
 **Questions à JP/Raph :**
 - [ ] Quels clients CAD 42 ont déjà exprimé un besoin formation IA ?
@@ -46,14 +55,16 @@ La nouvelle structure (nom de code : Azimut) peut bénéficier de cette rampe de
 
 **Objectif** : Définir ce que la nouvelle structure peut proposer immédiatement
 
-#### Scénario 1 : Sous-traitance formations existantes
-CAD 42 vend → Azimut délivre
+#### Scénario 1 : Prestation de service
+CAD 42 vend une prestation globale (logiciel + accompagnement) → Azimut délivre la partie formation
 
 | Avantages | Inconvénients |
 |-----------|---------------|
 | Démarrage rapide | Marge réduite |
-| Pas besoin Qualiopi (CAD42 certifié) | Dépendance CAD42 |
+| Pas de besoin Qualiopi immédiat | Dépendance CAD 42 |
 | Clients déjà acquis | Pas de relation directe |
+
+*Note : CAD 42 n'étant pas certifié Qualiopi, les formations ne sont pas éligibles OPCO dans ce scénario*
 
 #### Scénario 2 : Co-branding
 "Formation par CAD 42 & Azimut"
@@ -77,20 +88,20 @@ CAD 42 recommande → Azimut contracte directement
 
 ---
 
-### 3. Structure Contractuelle (30 min)
+### 3. Cadre de Collaboration (30 min)
 
-**Objectif** : Définir les termes du partenariat CAD 42 / Azimut
+**Objectif** : Poser les bases d'une collaboration gagnant-gagnant
 
-#### Points à négocier
+*Note : L'objectif n'est pas de "négocier" un contrat formel à ce stade, mais d'aligner les attentes entre partenaires qui sont aussi associés.*
 
-| Point | Options | Recommandation |
-|-------|---------|----------------|
-| **Type de contrat** | Distribution / Apport affaires / Sous-traitance | Apport d'affaires |
-| **Commission** | 5% / 10% / 15% du CA généré | 10% (aligné BP) |
-| **Exclusivité** | Oui / Non / Partielle | Non (trop contraignant) |
-| **Durée** | 1 an / 2 ans / Indéterminée | 2 ans renouvelable |
-| **Territoire** | France / Europe / Monde | France + clients existants |
-| **Non-concurrence** | Oui / Non | Limitée (pas de démarchage direct clients CAD42) |
+#### Points à discuter ensemble
+
+| Point | Options possibles | Questions ouvertes |
+|-------|-------------------|-------------------|
+| **Mode de collaboration** | Apport affaires / Prestation / Partenariat souple | Quel mode convient le mieux aux deux parties ? |
+| **Rémunération CAD 42** | Commission % / Forfait / Échange de services | Quel modèle est le plus simple et équitable ? |
+| **Périmètre** | Clients CAD 42 uniquement / Plus large | Comment évolue-t-on dans le temps ? |
+| **Durée** | Engagement moral / Contrat léger | Quel niveau de formalisme nécessaire entre associés ? |
 
 #### Propriété intellectuelle
 
@@ -141,6 +152,27 @@ CAD 42 recommande → Azimut contracte directement
 | Référencement majors BTP | Igor + Julien | Panels fournisseurs |
 | 5 modules catalogue | Igor | Offre complète |
 | 50% CA hors CAD42 | Équipe | Indépendance |
+
+---
+
+### 6. Vision Moyen/Long Terme (10 min)
+
+**Objectif** : Aligner sur la trajectoire de développement d'Azimut au-delà du BTP
+
+#### Roadmap de développement commercial
+
+| Phase | Horizon | Cible | Source principale |
+|-------|---------|-------|-------------------|
+| **1. Rampe CAD 42** | Y1 | Clients CAD 42 (Vinci, Bouygues...) | Apport affaires JP/Raph |
+| **2. BTP élargi** | Y1-Y2 | Réseau associés BTP + autres acteurs BTP | Julien, prospection directe |
+| **3. Diversification** | Y2-Y3 | Industrie, agroalimentaire, autres secteurs | Réseau Baptiste, nouveaux partenaires |
+
+#### Points à discuter
+- [ ] CAD 42 a-t-il vocation à rester le partenaire principal ou à devenir un partenaire parmi d'autres ?
+- [ ] Comment intégrer de nouveaux apporteurs d'affaires sectoriels (industrie, agro...) sans créer de conflit ?
+- [ ] Quelle place pour les formations "non-BTP" dans la relation avec CAD 42 ?
+
+> **Vision** : Azimut doit pouvoir grandir au-delà du BTP tout en maintenant une relation forte avec CAD 42. Le partenariat CAD 42 est un accélérateur de démarrage, pas une dépendance structurelle.
 
 ---
 

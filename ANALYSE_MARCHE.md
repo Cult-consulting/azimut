@@ -159,7 +159,7 @@ Le marché du consulting HSE (Hygiène, Sécurité, Environnement) pour les gran
 
 ### Forces (Strengths)
 - Expertise IA + HSE combinée (rare)
-- Réseau formateurs établi (via Yacine)
+- Réseau formateurs établi (via Yacine Benzina)
 - Accès clients BTP (CAD 42)
 - Équipe complémentaire (technique + business)
 - Structure légère, coûts fixes bas

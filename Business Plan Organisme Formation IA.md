@@ -43,7 +43,7 @@ La structure capitalise sur :
 
 | Partenaire | Type de contrat | Apports |
 |------------|-----------------|---------|
-| **Yacine** | Contrat d'apport d'affaires | Pool de formateurs IA, contacts secteur chimie |
+| **[Yacine Benzina](https://www.linkedin.com/in/yacine-b-41b527bb/)** | Contrat d'apport d'affaires | Pool de formateurs IA, contacts secteur chimie |
 | **Luigi Andolina (Spiraliss)** | Partenaire potentiel | Contrat-cadre Vinci pour formations IA |
 
 ### Répartition du capital (à valider en atelier)
@@ -74,7 +74,7 @@ La structure capitalise sur :
 
 ### Phase 2 : Développement (6-18 mois)
 - Développement d'une identité propre
-- Nouveaux canaux d'acquisition via réseaux Baptiste, Julien et Yacine
+- Nouveaux canaux d'acquisition via réseaux Baptiste, Julien et Yacine Benzina
 - Co-développement de nouveaux modules avec CAD 42
 
 ### Phase 3 : Maturité (18+ mois)

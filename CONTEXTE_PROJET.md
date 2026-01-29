@@ -35,7 +35,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 | Partenaire | Contrat | Apports |
 |------------|---------|---------|
-| **Yacine** | Apport d'affaires | Pool formateurs IA + Contacts chimie |
+| **[Yacine Benzina](https://www.linkedin.com/in/yacine-b-41b527bb/)** | Apport d'affaires | Pool formateurs IA + Contacts chimie |
 | **Luigi Andolina (Spiraliss Consultants)** | Partenariat potentiel | Contrat-cadre Vinci formations IA |
 
 ---
