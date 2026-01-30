@@ -31,15 +31,17 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 | Décision | Majorité requise | Commentaire |
 |----------|------------------|-------------|
-| Opérations courantes | Président seul | < seuil à définir (ex: 5k€) |
-| Investissements significatifs | Majorité simple | > seuil |
+| **Opérations courantes - Palier 1** | Président seul | < seuil 1 (ex: 2k€) |
+| **Opérations courantes - Palier 2** | Président + DG | Entre seuil 1 et seuil 2 (ex: 2k€ - 10k€) |
+| Investissements significatifs | Majorité simple | > seuil 2 |
 | Modification statuts | Unanimité ou 2/3 | À définir |
 | Entrée nouvel associé | Unanimité | Protection dilution |
 | Cession de la société | Unanimité | Protection tous |
 | Exclusion d'un associé | Majorité qualifiée (hors concerné) | Cas graves |
 
 **Questions à valider :**
-- [ ] Seuil décisions courantes (5k€ ? 10k€ ?)
+- [ ] Seuil palier 1 - Président seul (1k€ ? 2k€ ? 3k€ ?)
+- [ ] Seuil palier 2 - Président + DG (5k€ ? 10k€ ? 15k€ ?)
 - [ ] Majorité pour décisions stratégiques (2/3 ? 75% ?)
 - [ ] Droit de veto pour certains sujets ?
 
@@ -57,17 +59,25 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 #### 2.1 Engagement temps (associés actifs)
 
-| Associé | Engagement minimum | Activités autorisées en parallèle |
-|---------|-------------------|-----------------------------------|
-| Igor | ? j/semaine | Spiraliss (50%), autres formations |
-| Baptiste | ? j/semaine | Autres activités entrepreneuriales |
-| Julien | ? j/semaine | Activité BTP principale |
-| Éloïse | ? j/semaine | Autres clients communication |
+*Note : Unité flexible selon les profils - h/semaine ou j/mois selon la nature de l'engagement*
+
+| Associé | Engagement minimum | Unité | Activités autorisées en parallèle |
+|---------|-------------------|-------|-----------------------------------|
+| Igor | ? | h/sem ou j/mois | Spiraliss (50%), autres formations |
+| Baptiste | ? | h/sem ou j/mois | Autres activités entrepreneuriales |
+| Julien | ? | j/mois | Activité BTP principale |
+| Éloïse | ? | h/sem ou j/mois | Autres clients communication |
+
+**Proposition d'unités par profil :**
+- **Engagement régulier** (Igor, Baptiste) → h/semaine (ex: 8h, 16h, 24h)
+- **Engagement ponctuel** (Julien, Éloïse) → j/mois (ex: 2j, 4j, 6j)
 
 **Questions à valider :**
+- [ ] Unité par associé (h/semaine vs j/mois) ?
 - [ ] Engagement minimum pour chaque associé actif ?
 - [ ] Flexibilité en fonction du CA généré ?
 - [ ] Clause de "best efforts" plutôt que temps fixe ?
+- [ ] Période de référence pour le suivi (mensuel ? trimestriel ?)
 
 #### 2.2 Associés passifs (JP + Raph)
 
@@ -233,16 +243,16 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 | Situation | Règle |
 |-----------|-------|
 | Décision impactant CAD 42 | JP/Raph s'abstiennent du vote |
-| Négociation commerciale avec CAD 42 | Baptiste ou Julien négocie (pas Igor) |
+| Négociation commerciale avec CAD 42 | Mandataire non directement lié à CAD 42 (DG ou associé désigné, pas le Président) |
 | Litige avec CAD 42 | Médiation externe obligatoire |
 
-#### 9.2 Cas spécifique Igor (Spiraliss/Vinci)
+#### 9.2 Cas spécifique Président (Spiraliss/Vinci)
 
 | Situation | Règle |
 |-----------|-------|
-| Prospection Vinci | Julien pilote (pas Igor) |
-| Formation Vinci | Igor peut délivrer |
-| Conflit Spiraliss/Azimut | Déclaration préalable obligatoire |
+| Prospection Vinci | Associé non lié à Spiraliss pilote (pas le Président) |
+| Délivrance formation Vinci | Président peut délivrer (pas de conflit sur l'exécution) |
+| Conflit Spiraliss/Azimut | Déclaration préalable obligatoire au Comité |
 
 #### 9.3 Procédure générale
 
@@ -291,15 +301,16 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 ### Clauses à valider en atelier BP
 
 **Gouvernance**
-- [ ] Seuil décisions courantes : _____ €
+- [ ] Seuil palier 1 (Président seul) : _____ €
+- [ ] Seuil palier 2 (Président + DG) : _____ €
 - [ ] Majorité décisions stratégiques : _____
 - [ ] Fréquence comité opérationnel : _____
 
 **Engagement**
-- [ ] Engagement temps Igor : _____ j/semaine
-- [ ] Engagement temps Baptiste : _____ j/semaine
-- [ ] Engagement temps Julien : _____ j/semaine
-- [ ] Engagement temps Éloïse : _____ j/semaine
+- [ ] Engagement temps Igor : _____ (h/sem ou j/mois)
+- [ ] Engagement temps Baptiste : _____ (h/sem ou j/mois)
+- [ ] Engagement temps Julien : _____ j/mois
+- [ ] Engagement temps Éloïse : _____ (h/sem ou j/mois)
 
 **Sortie**
 - [ ] Durée lock-up : _____ ans
