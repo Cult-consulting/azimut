@@ -169,6 +169,52 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ---
 
+## Migration Site Web (Docsify → HTML sécurisé)
+
+**Statut** : Plan défini, en attente charte graphique et choix nom
+
+### Situation actuelle
+- Docsify sur GitHub Pages
+- Protection par mot de passe côté client (symbolique)
+
+### Plan de migration retenu
+
+| Phase | Solution | Déclencheur |
+|-------|----------|-------------|
+| **Court terme** | Rester sur Docsify | Pas de charte graphique |
+| **Moyen terme** | Cloudflare Access | Charte graphique + nom validé |
+
+### Cloudflare Access (solution cible)
+- **Sécurité** : Excellente (authentification OTP par email)
+- **Coût** : Gratuit (jusqu'à 50 users)
+- **Avantages** : Pas de mot de passe partagé, révocation facile, logs d'accès
+
+### Prérequis migration
+- [ ] Nom de société validé → achat domaine
+- [ ] Charte graphique (couleurs, typo, logo)
+- [ ] Compte Cloudflare
+
+### Étapes migration (quand prérequis OK)
+1. Acheter domaine (15 min)
+2. Configurer DNS sur Cloudflare (30 min)
+3. Convertir MD → HTML statique (2-3h)
+4. Appliquer CSS charte graphique (2-4h)
+5. Configurer Cloudflare Access Zero Trust (1h)
+6. Définir emails autorisés (associés)
+7. Déployer et tester
+
+### Gestion charte graphique
+Approche variables CSS → changer 5-6 valeurs = refonte complète
+```css
+:root {
+  --color-primary: #667eea;    /* À adapter */
+  --color-secondary: #764ba2;  /* À adapter */
+  --font-family: 'Inter', sans-serif;
+}
+```
+
+---
+
 ## Points Ouverts
 
 1. **Répartition exacte des parts** : À valider en atelier
@@ -211,7 +257,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 | Date | Travail effectué |
 |------|------------------|
 | 28-29 jan 2026 | Setup projet, BP, analyse marché |
-| 30 jan 2026 | Recherche nom (Top 5), draft pacte associés, agendas ateliers |
+| 30 jan 2026 | Recherche nom (Top 5), draft pacte associés, agendas ateliers, plan migration site web |
 
 *Note : Ce tableau permet de tracer le travail effectué en cas de perte de contexte*
 
