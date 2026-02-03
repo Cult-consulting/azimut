@@ -9,21 +9,20 @@
 
 Le pacte d'associés complète les statuts et régit les relations entre associés. Il est **confidentiel** (contrairement aux statuts déposés au greffe).
 
-### Tour de table - Proposition Igor (2 février 2026)
+### Tour de table - Structure en discussion
 
-| Associé | % Capital | Catégorie | Engagement |
-|---------|-----------|-----------|------------|
-| Igor Cannone | 38,0 % | Actif - Président | Majoritaire |
-| Baptiste Casnedi | 19,0 % | Actif - DG | Partiel |
-| Julien Gardette | 19,0 % | Actif | Partiel |
-| Jean-Philippe Panaget | 9,5 % | Passif | Apport affaires |
-| Raphaël Garcia-Brotons | 9,5 % | Passif | Apport affaires |
-| Éloïse Bouveret | 5,0 % | Actif | MKG/Com |
-| **TOTAL** | **100 %** | | |
+| Associé | Catégorie | Engagement | Logique |
+|---------|-----------|------------|---------|
+| Igor Cannone | Actif - Président | Temps plein | Part majoritaire |
+| Baptiste Casnedi | Actif - DG | Partiel | Bloc de contrôle |
+| Julien Gardette | Actif | Partiel | Bloc de contrôle |
+| Jean-Philippe Panaget | Passif | Apport affaires | Part minoritaire |
+| Raphaël Garcia-Brotons | Passif | Apport affaires | Part minoritaire |
+| Éloïse Bouveret | Actif | MKG/Com | Part mineure |
 
-**Bloc de contrôle** : Igor + Baptiste + Julien = **76%** (majorité qualifiée 2/3)
+**Bloc de contrôle** : Igor + Baptiste + Julien = majorité qualifiée (2/3)
 
-*Note : Proposition à valider lors de l'atelier BP*
+*Répartition exacte à valider lors de l'atelier BP (4 février)*
 
 ---
 

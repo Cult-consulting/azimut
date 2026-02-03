@@ -19,27 +19,26 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ## Tour de Table
 
-### Associés - Proposition Igor (2 février 2026)
+### Associés - Structure en discussion
 
-| Nom | Rôle | % Capital | Catégorie | LinkedIn |
-|-----|------|-----------|-----------|----------|
-| **Igor Cannone** | Président - Expert Métier/Opérations | 38,0 % | Actif | [Profil](https://www.linkedin.com/in/igor-canonne) |
-| **Baptiste Casnedi** | DG - DAF + CTO | 19,0 % | Actif | [Profil](https://www.linkedin.com/in/baptistecasnedi) |
-| **Julien Gardette** | Expert BTP - Contacts secteur | 19,0 % | Actif | [Profil](https://www.linkedin.com/in/jgardette/) |
-| **Jean-Philippe Panaget** | CAD 42 - Apport affaires | 9,5 % | Passif | [Profil](https://www.linkedin.com/in/jppanaget) |
-| **Raphaël Garcia-Brotons** | CAD 42 - Apport affaires | 9,5 % | Passif | [Profil](https://www.linkedin.com/in/raphaël-garcia-brotons-35284950) |
-| **Éloïse Bouveret** | Marketing/Communication | 5,0 % | Actif | [Profil](https://www.linkedin.com/in/eloise-bouveret/) |
-| | **TOTAL** | **100 %** | | |
+| Nom | Rôle | Catégorie | Logique |
+|-----|------|-----------|---------|
+| **Igor Cannone** | Président - Expert Métier/Opérations | Actif | Part majoritaire – porteur du projet, temps plein |
+| **Baptiste Casnedi** | DG - DAF + CTO | Actif | Bloc de contrôle – engagement fort, compétences finance/tech |
+| **Julien Gardette** | Expert BTP - Contacts secteur | Actif | Bloc de contrôle – engagement fort, réseau BTP |
+| **Jean-Philippe Panaget** | CAD 42 - Apport affaires | Passif | Part minoritaire – apporteur d'affaires |
+| **Raphaël Garcia-Brotons** | CAD 42 - Apport affaires | Passif | Part minoritaire – apporteur d'affaires |
+| **Éloïse Bouveret** | Marketing/Communication | Actif | Part mineure – contribution complémentaire |
 
 ### Blocs de gouvernance
 
-| Bloc | Associés | % cumulé | Pouvoir |
-|------|----------|----------|---------|
-| **Contrôle opérationnel** | Igor + Baptiste + Julien | 76 % | Majorité qualifiée (2/3) |
-| **Fondateurs actifs** | Les 4 actifs | 81 % | Quasi-unanimité |
-| **CAD 42** | JP + Raph | 19 % | Minorité de blocage sur unanimité |
+| Bloc | Associés | Pouvoir |
+|------|----------|---------|
+| **Contrôle opérationnel** | Igor + Baptiste + Julien | Majorité qualifiée (2/3) pour décisions stratégiques |
+| **Associés actifs** | Igor, Baptiste, Julien, Éloïse | Opérations quotidiennes |
+| **Associés passifs** | JP + Raph | Apporteurs d'affaires, minorité de blocage sur unanimité |
 
-**Note** : Proposition à valider lors de l'atelier BP (semaine du 3 février)
+**À valider** : Répartition exacte lors de l'atelier BP (4 février 2026)
 
 ### Partenaires Contractuels
 
@@ -302,14 +301,11 @@ Approche variables CSS → changer 5-6 valeurs = refonte complète
 
 ## Points Ouverts
 
-1. **Répartition des parts** : Proposition Igor à valider
-   - **Processus** : Igor échange de vive voix avec Julien et Éloïse avant l'atelier BP
-   - **Questions clés** :
-     - Éloïse 5% : Cohérent si Cresceo = side project pour elle ?
-     - Julien 19% + bloc de contrôle : Juste au regard de son engagement temps/énergie futur ?
+1. **Répartition des parts** : À finaliser lors de l'atelier BP
+   - **Principes actés** : Igor majoritaire, bloc de contrôle Igor+Baptiste+Julien, JP et Raph passifs, part mineure pour Éloïse
+   - **À valider** : Pourcentages exacts en séance (4 février)
 
-2. **Capital social** : 10k€ proportionnel aux parts (à valider)
-   - Si 10k€ : Igor 3 800€, Baptiste 1 900€, Julien 1 900€, JP 950€, Raph 950€, Éloïse 500€
+2. **Capital social** : Montant cible 10k€, répartition proportionnelle aux parts
 
 3. **Domiciliation** : Arbitrage ZFU Saint-Denis vs BUD Douai (voir section ci-dessus)
 
