@@ -113,14 +113,14 @@ La structure capitalise sur :
 
 | Phase | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| 1. Juridique | Pacte associés, Statuts, Greffe | 2,5j | 875€ | 1 500€ | 2 375€ |
+| 1. Juridique | Pacte associés, Statuts via Captain Contrat/Qonto | 2,5j | 875€ | 400€ | 1 275€ |
 | 2. Pédagogie | Catalogue 3 modules, vidéos IA | 3,0j | 1 050€ | 500€ | 1 550€ |
 | 3. IT & Outils | LMS Digiforma (setup), CRM, APIs IA | 2,5j | 875€ | 1 200€ | 2 075€ |
 | 4. Admin & NDA | Dossier DREETS, convention, compta | 2,0j | 700€ | 0€ | 700€ |
 | 5. Marketing | Site web, Lead Magnet, Ads lancement | 3,0j | 1 050€ | 4 000€ | 5 050€ |
 | 6. Qualiopi | Dossier preuves, Audit blanc + Initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
 | 7. Sales/Launch | Briefing, sourcing formateurs, webinaire | 2,0j | 700€ | 500€ | 1 200€ |
-| **TOTAL** | | **19j** | **6 650€** | **9 400€** | **16 050€** |
+| **TOTAL** | | **19j** | **6 650€** | **8 300€** | **14 950€** |
 
 **TJM interne** : 350€
 
@@ -129,7 +129,7 @@ La structure capitalise sur :
 - Création Lead Magnet (ebook, templates) : ~500€
 - Budget Ads lancement Google/LinkedIn : ~2 000€
 
-*Note : Ce budget de lancement est distinct du compte de résultat. Il est financé par le capital social et/ou compte courant d'associés.*
+*Note : Ce budget de lancement représente l'investissement initial avant le premier CA. Il est financé par le capital social et/ou compte courant d'associés. Les charges récurrentes en Y1 (P&L) prennent le relais après cette phase de lancement.*
 
 ---
 
@@ -142,10 +142,10 @@ La structure capitalise sur :
 | **Chiffre d'Affaires (CA)** | **60 000€** | **120 000€** | **240 000€** |
 | *Évolution du CA* | - | +100% | +100% |
 | | | | |
-| **Charges de Production** | **(39 500€)** | **(78 500€)** | **(156 500€)** |
+| **Charges de Production** | **(38 440€)** | **(76 900€)** | **(153 800€)** |
 | *Sous-traitance (Formateurs TJM)* | 30 000€ | 60 000€ | 120 000€ |
 | *Commissions Apporteurs (10%)* | 6 000€ | 12 000€ | 24 000€ |
-| *Abonnements API / Outils IA* | 2 500€ | 4 500€ | 8 500€ |
+| *Abonnements API / Outils IA (120€/mois Y1)* | 1 440€ | 2 900€ | 5 800€ |
 | *Matériel pédagogique (supports, licences)* | 1 000€ | 2 000€ | 4 000€ |
 | | | | |
 | **Charges de Structure (fixes)** | **(11 600€)** | **(19 800€)** | **(33 800€)** |
@@ -163,8 +163,8 @@ La structure capitalise sur :
 | *Budget publicitaire (Ads, SEO)* | 1 000€ | 4 000€ | 7 000€ |
 | *Événementiel BTP (salons, networking)* | 800€ | 2 100€ | 3 000€ |
 | | | | |
-| **Résultat d'Exploitation (EBIT)** | **8 900€** | **21 700€** | **49 700€** |
-| **Marge Opérationnelle (%)** | **14,8%** | **18,1%** | **20,7%** |
+| **Résultat d'Exploitation (EBIT)** | **9 960€** | **23 300€** | **52 400€** |
+| **Marge Opérationnelle (%)** | **16,6%** | **19,4%** | **21,8%** |
 
 ### 7.2 Détail Certification Qualiopi
 
@@ -208,8 +208,8 @@ La structure capitalise sur :
 | KPI | Année 1 | Année 2 | Année 3 |
 |-----|---------|---------|---------|
 | CA | 60 000€ | 120 000€ | 240 000€ |
-| Marge brute (après production) | 34% | 35% | 35% |
-| Marge opérationnelle | 14,8% | 18,1% | 20,7% |
+| Marge brute (après production) | 36% | 36% | 36% |
+| Marge opérationnelle | 16,6% | 19,4% | 21,8% |
 | **Charges fixes mensuelles** | **~970€** | **~1 650€** | **~2 800€** |
 | Trésorerie recommandée (2 mois fixes + BFR) | 7 000€ | 15 000€ | 32 000€ |
 
