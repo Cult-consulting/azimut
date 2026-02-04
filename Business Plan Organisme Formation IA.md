@@ -160,15 +160,11 @@ La structure capitalise sur :
 | *Frais de mission (déplacements, hébergement)* | 2 000€ | 4 000€ | 8 000€ |
 | *Qualiopi (hors audit initial = budget lancement)* | 800€ | 2 500€ | 3 500€ |
 | *Marketing & Communication (site DIY, Ads linéaires)* | 1 500€ | 3 300€ | 7 200€ |
-
-*Note : Charges de production = variables (existent seulement si CA). Charges de structure = fixes (à payer même sans activité).*
-| | | | |
-| **Charges Marketing détaillées** | | | |
-| *Budget publicitaire (Ads, SEO)* | 1 000€ | 4 000€ | 7 000€ |
-| *Événementiel BTP (salons, networking)* | 800€ | 2 100€ | 3 000€ |
 | | | | |
 | **Résultat d'Exploitation (EBIT)** | **10 260€** | **23 600€** | **52 700€** |
 | **Marge Opérationnelle (%)** | **17,1%** | **19,7%** | **22,0%** |
+
+*Charges de production = variables (proportionnelles au CA). Charges de structure = fixes (à payer même sans activité).*
 
 ### 7.2 Détail Certification Qualiopi
 
