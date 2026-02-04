@@ -139,6 +139,61 @@ Le marché du consulting HSE (Hygiène, Sécurité, Environnement) pour les gran
 
 ---
 
+## 2bis. Nouvelles Cibles : Startups & Incubateurs
+
+*Section ajoutée suite à l'atelier BP du 04/02/2026*
+
+### Contexte
+
+Les startups en croissance, notamment celles incubées, ont des besoins de formation similaires aux grandes entreprises mais avec des contraintes différentes :
+- Budgets plus serrés → besoin de financements OPCO/autres
+- Équipes réduites → formations impactantes et courtes
+- Culture innovation → appétence pour l'IA plus forte
+
+### 2bis.1 Cible prioritaire : Incubateur Impulse (Lyon)
+
+**Site** : [incubateur-impulse.fr](https://incubateur-impulse.fr/)
+
+| Information | Détail |
+|-------------|--------|
+| **Localisation** | Lyon |
+| **Focus** | Startups tech/industrie |
+| **Startups incubées** | À identifier |
+| **Gros clients Impulse** | À identifier (corporates partenaires) |
+
+**Intérêt pour Cresceo** :
+- Accès à un portefeuille de startups en croissance
+- Formations potentiellement finançables (OPCO, aides régionales)
+- Visibilité auprès des grands groupes partenaires d'Impulse
+- Proximité Lyon (atelier 27/02)
+
+### 2bis.2 Autres incubateurs à explorer
+
+| Incubateur | Zone | Secteur | Potentiel |
+|------------|------|---------|-----------|
+| Station F | Paris | Généraliste | Fort (volume) |
+| Village by CA | National | Généraliste | Moyen |
+| Incubateurs CCI | Régional | PME/TPE | Moyen |
+| Incubateurs BTP spécialisés | À identifier | BTP/Construction | Fort |
+
+### 2bis.3 Idée : Sondage CPF Conducteurs de Travaux
+
+**Objectif** : Valider l'intérêt du marché pour les formations IA financées CPF
+
+| Élément | Détail |
+|---------|--------|
+| **Cible** | Conducteurs de travaux, chefs de chantier |
+| **Canal** | LinkedIn, communautés BTP |
+| **Questions clés** | Intérêt IA ? Budget CPF disponible ? Formats préférés ? |
+| **KPI succès** | 50+ réponses |
+
+**Actions** :
+- [ ] Créer le sondage (Google Forms)
+- [ ] Diffuser via LinkedIn (Igor, réseau BTP)
+- [ ] Analyser résultats avant atelier Lyon (27/02)
+
+---
+
 ## 3. Analyse Concurrentielle
 
 ### 3.1 Concurrents Formation IA/Digital BTP

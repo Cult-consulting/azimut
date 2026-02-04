@@ -150,24 +150,24 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 ### Répartition des parts
 | Associé | % |
 |---------|---|
-| Igor | ? |
-| Baptiste | ? |
-| Julien | ? |
-| JP | ? |
-| Raph | ? |
-| Éloïse | ? |
+| Igor | 38 |
+| Baptiste | 19 |
+| Julien | 19 |
+| JP | 9,5 |
+| Raph | 9,5 |
+| Éloïse | 5 |
 
 ### Projections financières
-- Budget lancement validé : Oui / Non (ajustements : ...)
-- CA Y1 (60k€) : Réaliste / Optimiste / Pessimiste
-- Charges fixes (~970€/mois) : OK / À ajuster
+- Budget lancement validé : A ajuster, avec une version plus light en se concentrant sur les charges incompressibles
+- CA Y1 (60k€) : Réaliste 
+- Charges fixes (~970€/mois) : OK / À limiter
 - BFR OPCO : Couvert par capital / Compte courant nécessaire
 
 ### Domiciliation
-- Choix : BUD Douai / Autre
+- Choix : BUD Douai A priori, à organiser car pas de salarié prévu pour l'instant
 
 ### Capital social
-- Montant : ?
+- Montant : 10000€
 
 ## Actions
 
@@ -176,7 +176,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 | ... | ... | ... |
 
 ## Prochaine réunion
-- Date : ...
+- Date : 11/02
 - Objet : Follow-up / Validation
 ```
 

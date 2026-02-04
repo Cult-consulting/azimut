@@ -109,31 +109,47 @@ La structure capitalise sur :
 
 ---
 
-## 6. Budget de Lancement (investissement initial, avant premier CA)
+## 6. Budget de Lancement (approche phasée)
 
-| Phase | Action | Jours | Coût interne | Dépenses externes | Total |
+**Logique** : Réduire l'investissement initial tant que la réponse marché n'est pas validée. Budget en 2 phases :
+- **Phase 1** : Incompressibles (création juridique, setup minimal)
+- **Phase 2** : Post-rampe CAD42 (Qualiopi, Ads, développement)
+
+### 6.1 Phase 1 : Lancement minimal (~5 000€)
+
+| Poste | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| 1. Juridique | Statuts (Captain Contrat) + Pacte associés + CGV (avocat) | 2,5j | 875€ | 1 900€ | 2 775€ |
-| 2. Pédagogie | Catalogue 3 modules, vidéos IA | 3,0j | 1 050€ | 500€ | 1 550€ |
-| 3. IT & Outils | LMS Digiforma (setup), CRM, APIs IA | 2,5j | 875€ | 1 200€ | 2 075€ |
-| 4. Admin & NDA | Dossier DREETS, convention, compta | 2,0j | 700€ | 0€ | 700€ |
-| 5. Marketing | Charte graphique/logo, Ads lancement (site DIY) | 2,0j | 700€ | 2 500€ | 3 200€ |
-| 6. Qualiopi | Dossier preuves, Audit blanc + Initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
-| 7. Sales/Launch | Briefing, sourcing formateurs, webinaire | 2,0j | 700€ | 500€ | 1 200€ |
-| **TOTAL** | | **18j** | **6 300€** | **8 300€** | **14 600€** |
+| Juridique | Création SAS (Captain Contrat) | 1,0j | 350€ | 400€ | 750€ |
+| Pédagogie | Catalogue 1 module MVP | 1,0j | 350€ | 500€ | 850€ |
+| IT & Outils | Setup minimal (CRM, outils basiques) | 0,5j | 175€ | 500€ | 675€ |
+| Admin & NDA | Dossier DREETS, convention | 2,0j | 700€ | 0€ | 700€ |
+| Marketing | Logo + charte graphique (site DIY) | 0,5j | 175€ | 1 000€ | 1 175€ |
+| Sales/Launch | Briefing CAD42, sourcing formateurs | 1,0j | 350€ | 500€ | 850€ |
+| **TOTAL Phase 1** | | **6j** | **2 100€** | **2 900€** | **5 000€** |
+
+### 6.2 Phase 2 : Développement post-validation marché (~9 500€)
+
+| Poste | Action | Jours | Coût interne | Dépenses externes | Total |
+|-------|--------|-------|--------------|-------------------|-------|
+| Juridique | Pacte associés + CGV (avocat) | 1,5j | 525€ | 1 500€ | 2 025€ |
+| Pédagogie | Catalogue complet (2 modules add.) | 2,0j | 700€ | 0€ | 700€ |
+| IT & Outils | LMS Digiforma, APIs IA | 2,0j | 700€ | 700€ | 1 400€ |
+| Marketing | Budget Ads Google/LinkedIn | 0,5j | 175€ | 1 500€ | 1 675€ |
+| Qualiopi | Dossier preuves, Audit initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
+| Webinaire | Webinaire de lancement | 1,0j | 350€ | 0€ | 350€ |
+| **TOTAL Phase 2** | | **11j** | **3 850€** | **5 400€** | **9 250€** |
+
+### 6.3 Récapitulatif
+
+| Phase | Déclencheur | Budget |
+|-------|-------------|--------|
+| **Phase 1** | Création société | **~5 000€** |
+| **Phase 2** | Premières ventes CAD42 validées | **~9 500€** |
+| **TOTAL** | | **~14 500€** |
 
 **TJM interne** : 350€
 
-**Détail Juridique (1 900€ externes)** :
-- Création SAS via Captain Contrat/Qonto : ~400€
-- Pacte d'associés + CGV (avocat spécialisé) : ~1 500€
-
-**Détail Marketing (2 500€ externes)** :
-- Charte graphique + logo (Éloïse) : ~1 000€
-- Budget Ads lancement Google/LinkedIn : ~1 500€
-- Site web : DIY (Baptiste + Claude)
-
-*Note : Ce budget de lancement représente l'investissement initial avant le premier CA. Il est financé par le capital social et/ou compte courant d'associés. Les charges récurrentes en Y1 (P&L) prennent le relais après cette phase de lancement.*
+*Note : La Phase 1 permet de démarrer avec un investissement minimal. La Phase 2 est conditionnée à la validation de la réponse marché via les premières ventes CAD42.*
 
 ---
 
@@ -165,6 +181,22 @@ La structure capitalise sur :
 | **Marge Opérationnelle (%)** | **17,1%** | **19,7%** | **22,0%** |
 
 *Charges de production = variables (proportionnelles au CA). Charges de structure = fixes (à payer même sans activité).*
+
+**Hypothèses de CA Y1 (validées atelier BP 04/02)** :
+
+| Paramètre | Valeur | Notes |
+|-----------|--------|-------|
+| Offre moyenne | 2 jours | Formations courtes BTP/Industrie |
+| Prix moyen | 2 600€ | 2j × 1 300€/jour |
+| Ventes Y1 | 24 | 2/mois |
+| **CA Y1** | **62 400€** | Arrondi à 60K€ |
+
+**2 canaux de vente** :
+
+| Canal | CA estimé | Logique |
+|-------|-----------|---------|
+| **CAD42** | 40 000€ | Sous-traitance via 3 commerciaux CAD42 (focus prioritaire) |
+| **Réseau associés** | 20 000€ | Igor, Julien, Baptiste, JP/Raph (temps 2) |
 
 ### 7.2 Détail Certification Qualiopi
 
